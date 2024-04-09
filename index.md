@@ -1,6 +1,7 @@
 ---
 title: Welcome to my blog
+date: 2024-04-09
 ---
 
-# Prvi blog o SwiftUI
-Danas cemo nauciti nesto novo o SwiftUI...
+# SwiftUI blog
+Danas cemo nauciti nesto novo o SwiftUI
